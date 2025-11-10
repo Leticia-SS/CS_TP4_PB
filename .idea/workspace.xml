@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0687917f-bb59-43cc-969d-e4fac824617b" name="Changes" comment="initial commit">
+    <list default="true" id="0687917f-bb59-43cc-969d-e4fac824617b" name="Changes" comment="output txt do Teste de Performance 1">
+      <change afterPath="$PROJECT_DIR$/Trie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HeapBinariaHospital.py" beforeDir="false" afterPath="$PROJECT_DIR$/HeapBinariaHospital.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +75,29 @@
       <option name="project" value="LOCAL" />
       <updated>1762809112836</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Heap binária da questão 1)">
+      <option name="closed" value="true" />
+      <created>1762809926315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762809926315</updated>
+    </task>
+    <task id="LOCAL-00003" summary="output txt do Teste de Performance 1">
+      <option name="closed" value="true" />
+      <created>1762809962710</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762809962710</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Heap binária da questão 1)" />
+    <MESSAGE value="output txt do Teste de Performance 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="output txt do Teste de Performance 1" />
   </component>
 </project>
