@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0687917f-bb59-43cc-969d-e4fac824617b" name="Changes" comment="output txt do Teste de Performance 1">
-      <change afterPath="$PROJECT_DIR$/Trie.py" afterDir="false" />
+    <list default="true" id="0687917f-bb59-43cc-969d-e4fac824617b" name="Changes" comment="autocomplete sistem and quick test for exercise 02 with Trie">
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Leticia-SS"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Leticia-SS&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Leticia-SS/CS_TP4_PB.git",
-    "accountId": "235da24d-6073-499e-8d09-d7f9ac93ef19"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Leticia-SS/CS_TP4_PB.git&quot;,
+    &quot;accountId&quot;: &quot;235da24d-6073-499e-8d09-d7f9ac93ef19&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="35IsZpU2Smb48t9OUODG8336JUI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,7 +46,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.DFS&BFS.executor": "Run",
     "Python.HeapBinariaHospital.executor": "Run",
+    "Python.Trie.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -91,13 +93,22 @@
       <option name="project" value="LOCAL" />
       <updated>1762809962710</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="autocomplete sistem and quick test for exercise 02 with Trie">
+      <option name="closed" value="true" />
+      <created>1762810588229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762810588229</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Heap binária da questão 1)" />
     <MESSAGE value="output txt do Teste de Performance 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="output txt do Teste de Performance 1" />
+    <MESSAGE value="autocomplete sistem and quick test for exercise 02 with Trie" />
+    <option name="LAST_COMMIT_MESSAGE" value="autocomplete sistem and quick test for exercise 02 with Trie" />
   </component>
 </project>
